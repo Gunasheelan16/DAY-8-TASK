@@ -1,0 +1,40 @@
+
+* { 
+    margin: 0;
+    padding: 0;
+    color: lightseagreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h1 { 
+    display: block;
+    text-align: center;
+    margin-top: 10%;
+}
+p { 
+    text-align: center;
+    color: darkgreen;
+}
+.main { 
+
+      margin-top: 30px;
+      text-align: center;
+}
+.maininput { 
+    color:darkblue;
+}
+button { 
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid rgb(229, 123, 123);
+
+}
+
+button:hover { 
+    background-color: rgb(145, 23, 131);
+    color: coral;
+}
+
+
+
+
+
